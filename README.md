@@ -4,6 +4,5 @@ a novel system for identifying skin cancer through the application of machine le
 <br>
 
 DATASET
-
 <br>
 https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
